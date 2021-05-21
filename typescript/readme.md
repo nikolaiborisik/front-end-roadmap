@@ -37,17 +37,17 @@
 - Utility Types  [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
   - Required<Type> 
   - Pick<Type, Keys>
-  - Omit<Type, Keys> c
+  - Omit<Type, Keys> 
   - Exclude<Type, ExcludedUnion> 
   - Extract<Type, Union>
-    NonNullable<Type>
-    Parameters<Type>
-    ConstructorParameters<Type>
-    ReturnType<Type>
-    InstanceType<Type>
-    ThisParameterType<Type>
-    OmitThisParameter<Type>
-    ThisType<Type>
+  - NonNullable<Type>
+  - Parameters<Type>
+  - ConstructorParameters<Type>
+  - ReturnType<Type>
+  - InstanceType<Type>
+  - ThisParameterType<Type>
+  - OmitThisParameter<Type> 
+  - ThisType<Type>
 - Never Type [link](https://basarat.gitbook.io/typescript/type-system/never)    
 -  type unknown [link](https://exploringjs.com/tackling-ts/ch_any-unknown.html#the-top-type-unknown)
 - Enum 
@@ -98,3 +98,5 @@
 ### Exercises
 
 - [Type challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges
+- [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) 
+- [Advanced TypeScript Exercises](https://dev.to/macsikora/advanced-typescript-exercises-question-1-45k4)
