@@ -28,8 +28,19 @@
   - Record<Keys,Type> [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype)
 - Type Inference [link](https://www.typescriptlang.org/docs/handbook/type-inference.html)
 - Type Assertions [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
+- Type guards
+  - Built-in type guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#narrowing-via-built-in-type-guards) [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#when-are-static-types-too-general)
 - The benefits of using TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-benefits-of-using-typescript)
 - The downsides of using TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript)
+
+### Exercises
+[1](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/1)
+[2](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/2)
+[3](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/3)
+[7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7)
+[9](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/9)
+
+
 
 ## Intermediate
 - Keyof Type Operator [link](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html)
@@ -58,7 +69,7 @@
 - Typing Arrays [link](https://exploringjs.com/tackling-ts/ch_typing-arrays.html) 
 - Freshness [link](https://basarat.gitbook.io/typescript/type-system/freshness)
 - Type guards
-  - Built-in type guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#narrowing-via-built-in-type-guards) [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#when-are-static-types-too-general)
+  - User-defined type guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#user-defined-type-guards)
 - Typing functions  [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html)
 - Indexed Access Types [link](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)
 
@@ -70,8 +81,7 @@
 - Unions of singleton values [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#unions-of-singleton-values)
 - Discriminated unions [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#discriminated-union) [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#discriminated-unions)
 - Object literals as enums  [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#object-literals-as-enums)
-- Type guards
-  - User-defined type guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#user-defined-type-guards)
+
   
 - Conditional Types [link](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
 - Mapped Types [link](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)
