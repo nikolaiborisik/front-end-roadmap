@@ -1,4 +1,6 @@
 # Typescript
+Topic Leaders: 
+- 
 ## Fundamentals
 
 - Static type-checking [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#static-type-checking)
