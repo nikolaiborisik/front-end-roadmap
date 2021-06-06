@@ -1,0 +1,28 @@
+{
+  "name": "front-end-roadmap",
+  "version": "0.0.1",
+  "description": "Front-end roadmap",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"**/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaiborisik/front-end-roadmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolaiborisik/front-end-roadmap/issues"
+  },
+  "homepage": "https://github.com/nikolaiborisik/front-end-roadmap#readme",
+  "devDependencies": {
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "2.3.1"
+  },
+  "lint-staged": {
+    "**/*.md": "prettier --write --ignore-unknown"
+  }
+}
