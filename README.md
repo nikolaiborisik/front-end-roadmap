@@ -2,9 +2,7 @@
 
 ## Introduction
 
-The topic is a specific framework, library, language, etc. Topics example: TypeScript, JavaScript, React, Angular, RxJs, Redux, MobX, etc.
-
-> Topic levels don't have a close connection with developer levels like junior, middle and senior. It just shows developer knowledge and skill in the specific topic.
+List of questions, resources, and exercises to help developer skill up in the specific topic step by step.
 
 ### 🚀 Goals
 
@@ -13,9 +11,13 @@ The topic is a specific framework, library, language, etc. Topics example: TypeS
 - Having mentors in each topic to help a developer learn
 - Do Learn Share
 
+The _topic_ is a specific framework, library, language, etc. Topics example: TypeScript, JavaScript, React, Angular, RxJs, Redux, MobX, etc.
+
+> Topic levels don't have a close connection with developer levels like junior, middle and senior. It just shows developer knowledge and skill in the specific topic.
+
 ### Topic requirements:
 
-- Has at least on Topic Leader
+- Has at least one Topic Leader
 - Topic has 3 levels maximum
 - Topic divide into portion questions
 - Questions are limited by 1-2 page information
@@ -81,6 +83,6 @@ Anyone is welcome to contribute.
 
 [Front-end developer learning roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 
-> Visual roadmap with tiny descriptions and links. Most of link to the paid content
+> Visual roadmap with tiny descriptions and links. Most links to the paid content
 
 [Front-End Developer Roadmap In 2021](https://github.com/Z8264/frontend-developer-roadmap)
