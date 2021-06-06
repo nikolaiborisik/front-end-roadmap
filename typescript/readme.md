@@ -1,6 +1,7 @@
 # Typescript
-Topic Leaders: 
-- 
+
+Topic Leaders:
+
 ## Fundamentals
 
 - Static type-checking [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#static-type-checking)
@@ -36,22 +37,22 @@ Topic Leaders:
 - The downsides of using TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript)
 
 ### Exercises
+
 [1](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/1)
 [2](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/2)
 [3](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/3)
 [7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7)
 [9](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/9)
 
-
-
 ## Intermediate
+
 - Keyof Type Operator [link](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html)
 - Typeof Type Operator [link](https://www.typescriptlang.org/docs/handbook/2/typeof-types.html)
-- Utility Types  [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
-  - Required<Type> 
+- Utility Types [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+  - Required<Type>
   - Pick<Type, Keys>
-  - Omit<Type, Keys> 
-  - Exclude<Type, ExcludedUnion> 
+  - Omit<Type, Keys>
+  - Exclude<Type, ExcludedUnion>
   - Extract<Type, Union>
   - NonNullable<Type>
   - Parameters<Type>
@@ -59,39 +60,37 @@ Topic Leaders:
   - ReturnType<Type>
   - InstanceType<Type>
   - ThisParameterType<Type>
-  - OmitThisParameter<Type> 
+  - OmitThisParameter<Type>
   - ThisType<Type>
-- Never Type [link](https://basarat.gitbook.io/typescript/type-system/never)    
--  type unknown [link](https://exploringjs.com/tackling-ts/ch_any-unknown.html#the-top-type-unknown)
-- Enum 
-  - Literal enum members  [link](https://exploringjs.com/tackling-ts/ch_enums.html#literal-enum-members)
+- Never Type [link](https://basarat.gitbook.io/typescript/type-system/never)
+- type unknown [link](https://exploringjs.com/tackling-ts/ch_any-unknown.html#the-top-type-unknown)
+- Enum
+  - Literal enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#literal-enum-members)
   - Constant enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#constant-enum-members)
   - Computed enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#computed-enum-members)
   - Use cases for enums [link](https://exploringjs.com/tackling-ts/ch_enums.html#use-cases-for-enums)
-- Typing Arrays [link](https://exploringjs.com/tackling-ts/ch_typing-arrays.html) 
+- Typing Arrays [link](https://exploringjs.com/tackling-ts/ch_typing-arrays.html)
 - Freshness [link](https://basarat.gitbook.io/typescript/type-system/freshness)
 - Type guards
   - User-defined type guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#user-defined-type-guards)
-- Typing functions  [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html)
+- Typing functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html)
 - Indexed Access Types [link](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)
 
 ## Advance
+
 - Enum
   - Enums at runtime [link](https://exploringjs.com/tackling-ts/ch_enums.html#enums-at-runtime)
   - const enums [link](https://exploringjs.com/tackling-ts/ch_enums.html#const-enums)
   - Enums at compile time [link](https://exploringjs.com/tackling-ts/ch_enums.html#enums-at-compile-time)
 - Unions of singleton values [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#unions-of-singleton-values)
 - Discriminated unions [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#discriminated-union) [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#discriminated-unions)
-- Object literals as enums  [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#object-literals-as-enums)
-
-  
+- Object literals as enums [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#object-literals-as-enums)
 - Conditional Types [link](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
 - Mapped Types [link](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)
 - Template Literal Types [link](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
   - Intrinsic String Manipulation Types [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#intrinsic-string-manipulation-types)
-- Namespaces  [link](https://www.typescriptlang.org/docs/handbook/namespaces.html)
+- Namespaces [link](https://www.typescriptlang.org/docs/handbook/namespaces.html)
 - Nominal Typing [link](https://basarat.gitbook.io/typescript/main-1/nominaltyping)
-
 
 ## Links
 
@@ -110,5 +109,5 @@ Topic Leaders:
 ### Exercises
 
 - [Type challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges
-- [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) 
+- [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises)
 - [Advanced TypeScript Exercises](https://dev.to/macsikora/advanced-typescript-exercises-question-1-45k4)
