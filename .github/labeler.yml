@@ -1,0 +1,7 @@
+typescript:
+  - typescript/*
+ci:
+  - .github/*
+common:
+  - readme.md
+  - common/*
