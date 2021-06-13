@@ -1,0 +1,32 @@
+## TypeScript Intermediate
+
+- Keyof Type Operator [link](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html)
+- Typeof Type Operator [link](https://www.typescriptlang.org/docs/handbook/2/typeof-types.html)
+- Utility Types [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+  - Required<Type>
+  - Pick<Type, Keys>
+  - Omit<Type, Keys>
+  - Exclude<Type, ExcludedUnion>
+  - Extract<Type, Union>
+  - NonNullable<Type>
+  - Parameters<Type>
+  - ConstructorParameters<Type>
+  - ReturnType<Type>
+  - InstanceType<Type>
+  - ThisParameterType<Type>
+  - OmitThisParameter<Type>
+  - ThisType<Type>
+- Never Type [link](https://basarat.gitbook.io/typescript/type-system/never)
+- type unknown [link](https://exploringjs.com/tackling-ts/ch_any-unknown.html#the-top-type-unknown)
+- Enum
+  - Literal enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#literal-enum-members)
+  - Constant enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#constant-enum-members)
+  - Computed enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#computed-enum-members)
+  - Use cases for enums [link](https://exploringjs.com/tackling-ts/ch_enums.html#use-cases-for-enums)
+- Typing Arrays [link](https://exploringjs.com/tackling-ts/ch_typing-arrays.html)
+- Freshness [link](https://basarat.gitbook.io/typescript/type-system/freshness)
+- Type guards
+  - User-defined type
+    guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#user-defined-type-guards)
+- Typing functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html)
+- Indexed Access Types [link](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)
