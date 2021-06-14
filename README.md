@@ -6,12 +6,17 @@ List of questions, resources, and exercises to help developer skill up in the sp
 
 ### 🚀 Goals
 
-- Gather useful information to learn specific topics
-- Has leveling path in the specific topic by Ranging questions by level
-- Having mentors in each topic to help a developer learn
+- Organising learning courses inside the company
+- Reuse third party materials as much as possible
+- Having mentors in each topic
+- No lectures
+- Individual learning with a mentor without strict course time
+- Dividing each topic by level
+- To Complete level doesn't require much time
+- Anyone is welcome to contribute and be a mentor
 - Do Learn Share
 
-The _topic_ is a specific framework, library, language, etc. Topics example: TypeScript, JavaScript, React, Angular, RxJs, Redux, MobX, etc.
+The _topic_ can be a specific framework, library, language, etc. Topics example: TypeScript, JavaScript, React, Angular, RxJs, Redux, MobX, etc.
 
 > Topic levels don't have a close connection with developer levels like junior, middle and senior. It just shows developer knowledge and skill in the specific topic.
 
