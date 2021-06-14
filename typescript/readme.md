@@ -23,6 +23,12 @@ Topic Leaders:
 - [TypeScript Design Goals](https://github.com/microsoft/TypeScript/wiki/TypeScript-Design-Goals)
 - [TypeScript FAQ](https://github.com/microsoft/TypeScript/wiki/FAQ)
 
+from fullstack-development / developers-roadmap:
+
+- [junior 2](https://github.com/fullstack-development/developers-roadmap/blob/master/frontend/junior-2/ts.md)
+- [junior 3](https://github.com/fullstack-development/developers-roadmap/blob/master/frontend/junior-3/ts.md)
+- [middle 1](https://github.com/fullstack-development/developers-roadmap/blob/master/frontend/middle-1/typescript.md)
+
 ### Exercises
 
 - [Type challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges
