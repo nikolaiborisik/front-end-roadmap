@@ -23,11 +23,16 @@ Topic Leaders:
 - [TypeScript Design Goals](https://github.com/microsoft/TypeScript/wiki/TypeScript-Design-Goals)
 - [TypeScript FAQ](https://github.com/microsoft/TypeScript/wiki/FAQ)
 
-from fullstack-development / developers-roadmap:
+### from fullstack-development / developers-roadmap:
 
 - [junior 2](https://github.com/fullstack-development/developers-roadmap/blob/master/frontend/junior-2/ts.md)
 - [junior 3](https://github.com/fullstack-development/developers-roadmap/blob/master/frontend/junior-3/ts.md)
 - [middle 1](https://github.com/fullstack-development/developers-roadmap/blob/master/frontend/middle-1/typescript.md)
+
+### React, Redux
+
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 
 ### Exercises
 
