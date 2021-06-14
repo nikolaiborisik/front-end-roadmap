@@ -1,5 +1,6 @@
 # TypeScript Fundamentals
 
+- Structural typing [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html#structural-type-system)
 - Static type-checking [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#static-type-checking)
 - Type annotations [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-annotations)
 - Primitive Types [link](https://basarat.gitbook.io/typescript/type-system#primitive-types)
@@ -17,7 +18,7 @@
   - Methods [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#methods)
   - Optional Properties [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#optional-properties)
   - Readonly Properties [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#readonly-properties)
-  - Generic Object Types [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#generic-object-types)
+- Generic Object Types [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#generic-object-types) [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-variables-and-generic-types)
 - Any [link](https://basarat.gitbook.io/typescript/type-system#any)
 - Enums
   - Numeric enums [link](https://exploringjs.com/tackling-ts/ch_enums.html#numeric-enums)
