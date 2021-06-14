@@ -23,6 +23,11 @@ Topic Leaders:
 - [TypeScript Design Goals](https://github.com/microsoft/TypeScript/wiki/TypeScript-Design-Goals)
 - [TypeScript FAQ](https://github.com/microsoft/TypeScript/wiki/FAQ)
 
+### React, Redux
+
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
+- [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+
 ### Exercises
 
 - [Type challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges
