@@ -18,6 +18,8 @@
   - ThisType<Type>
 - Never Type [link](https://basarat.gitbook.io/typescript/type-system/never)
 - type unknown [link](https://exploringjs.com/tackling-ts/ch_any-unknown.html#the-top-type-unknown)
+- Literal Inference [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-inference)
+  - as const
 - Enum
   - Literal enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#literal-enum-members)
   - Constant enum members [link](https://exploringjs.com/tackling-ts/ch_enums.html#constant-enum-members)

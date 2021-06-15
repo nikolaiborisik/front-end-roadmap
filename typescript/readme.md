@@ -15,6 +15,7 @@ Topic Leaders:
 - [basarat.gitbook.io](https://basarat.gitbook.io/typescript/)
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - Official handbook
 - [Tackling TypeScript](https://exploringjs.com/tackling-ts/toc.html)
+- [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 
 ### Others
 
@@ -49,3 +50,8 @@ Topic Leaders:
   ](https://github.com/joonhocho/tsdef)
 - [type-fest](https://github.com/sindresorhus/type-fest)
 - [utility-types](https://github.com/piotrwitek/utility-types)
+- [Playground:examples](https://www.typescriptlang.org/play) - see menu examples
+
+### Videos
+
+[Anders Hejlsberg - TypeScript: Static types for JavaScript](https://youtu.be/ET4kT88JRXs)
