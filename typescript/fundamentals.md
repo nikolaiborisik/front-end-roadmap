@@ -6,7 +6,7 @@
 - Primitive Types [link](https://basarat.gitbook.io/typescript/type-system#primitive-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
 - Literal types [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-types)
 - null and undefined [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#by-default-undefined-and-null-are-not-included-in-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined)
-- Arrays [link](https://basarat.gitbook.io/typescript/type-system#arrays) [link](https://basarat.gitbook.io/typescript/type-system#arrays)
+- Arrays [link](https://basarat.gitbook.io/typescript/type-system#arrays) [link](https://exploringjs.com/tackling-ts/ch_typing-arrays.html#ways-of-typing-arrays)
 - Array as tuples [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#arrays-as-tuples)
 - Function types [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#function-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#functions)
   - void [link](https://basarat.gitbook.io/typescript/type-system#any)
