@@ -1,7 +1,7 @@
 # TypeScript Fundamentals
 
 - Structural typing [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html#structural-type-system)
-- Static type-checking [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#static-type-checking)
+- Static type-checking [link](https://en.wikipedia.org/wiki/Type_system#Static_type_checking) [link](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)
 - Type annotations [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-annotations) [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#explicit-types)
 - Primitive Types [link](https://basarat.gitbook.io/typescript/type-system#primitive-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
 - Literal types [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-types)
