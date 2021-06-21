@@ -46,11 +46,12 @@
 ## Exercises
 
 From [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises/):
-[1](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/1)
-[2](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/2)
-[3](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/3)
-[7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7)
-[9](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/9)
+
+- [1](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/1) Interface, Array
+- [2](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/2) Union
+- [3](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/3) Built-in type guards
+- [7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7) Generic, Function, Tuples
+- [9](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/9) Generic
 
 ## Tasks
 
