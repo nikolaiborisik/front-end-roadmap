@@ -1,5 +1,10 @@
-## TypeScript Intermediate
+## TypeScript Intermediate (WIP)
 
+- Typing functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html)
+  - Defining statically typed functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html#defining-statically-typed-functions)
+  - Types for functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html#types-for-functions)
+  - Parameters [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html#parameters)
+  - Overloading [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html#overloading-advanced)
 - Keyof Type Operator [link](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html)
 - Typeof Type Operator [link](https://www.typescriptlang.org/docs/handbook/2/typeof-types.html)
 - Utility Types [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
@@ -32,3 +37,17 @@
     guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#user-defined-type-guards)
 - Typing functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html)
 - Indexed Access Types [link](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)
+- Discriminated
+  unions [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#discriminated-union) [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#discriminated-unions)
+
+## Exercises
+
+From [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises/):
+
+- [4](https://github.com/typescript-exercises/typescript-exercises/blob/master/src/exercises/4/index.ts) user-defined type guard
+- [5](https://github.com/typescript-exercises/typescript-exercises/blob/master/src/exercises/5/index.ts) Utility types
+- [6](https://github.com/typescript-exercises/typescript-exercises/blob/master/src/exercises/6/index.ts) Function overload
+- [8](https://github.com/typescript-exercises/typescript-exercises/blob/master/src/exercises/8/index.ts) Utility types
+- [10](https://github.com/typescript-exercises/typescript-exercises/blob/master/src/exercises/10/index.ts) Generic, keyof
+- [14](https://github.com/typescript-exercises/typescript-exercises/blob/master/src/exercises/14/index.ts) Generic, Function typing
+- [15](https://github.com/typescript-exercises/typescript-exercises/blob/master/src/exercises/15/index.ts) Generic, Function typing
