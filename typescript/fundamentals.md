@@ -115,11 +115,12 @@ const updatedUser2 = updateUser(user, { age: 25, lastName: "Petrov" });
 
 ### Task 3
 
-Define the following types Role (use enum), Feature (use union), FeaturePermission, Permissions Available roles are guest,
-user, and admin. Available features are catalog, basket, admin, report. Available permissions are NO_ACCESS, READ,
-READ_WRITE'. For type FeaturePermission use utility types Record and Partial.
+Define the following types `Role` (use enum), `Feature` (use union), `Permissions`, `FeaturePermission`. Available roles are guest,
+user, and admin. Available features are catalog, basket, admin, report. Available permissions are `NO_ACCESS`, `READ`, `READ_WRITE`. For type `FeaturePermission` use utility types Record and Partial.
 
 ```typescript
+// TODO: define Role, Feature, Permission and FeaturePermission
+
 let role: Role = Role.Guest;
 
 let feature: Feature = "catalog";
