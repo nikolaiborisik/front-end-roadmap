@@ -1,4 +1,4 @@
-## TypeScript Intermediate (WIP)
+## 🚧 TypeScript Intermediate (WIP)
 
 - Typing functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html)
   - Defining statically typed functions [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html#defining-statically-typed-functions)

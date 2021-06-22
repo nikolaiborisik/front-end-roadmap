@@ -1,4 +1,4 @@
-# TypeScript Fundamentals
+# 📝 TypeScript Fundamentals (In Review)
 
 - Type annotations [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-annotations) [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#explicit-types)
 - Primitive Types [link](https://basarat.gitbook.io/typescript/type-system#primitive-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)

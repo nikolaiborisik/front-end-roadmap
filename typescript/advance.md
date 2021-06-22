@@ -1,4 +1,4 @@
-## Advance (WIP)
+## 🚧 Advance (WIP)
 
 - Typing functions
   - Assignability [link](https://exploringjs.com/tackling-ts/ch_typing-functions.html#assignability)

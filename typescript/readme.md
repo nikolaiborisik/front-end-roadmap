@@ -12,9 +12,9 @@ Topic Leaders:
 
 ### Books and guides
 
-- [basarat.gitbook.io](https://basarat.gitbook.io/typescript/)
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - Official handbook
 - [Tackling TypeScript](https://exploringjs.com/tackling-ts/toc.html)
+- [basarat.gitbook.io](https://basarat.gitbook.io/typescript/)
 - [TypeScript Evolution](https://mariusschulz.com/blog/series/typescript-evolution)
 
 ### Others
@@ -55,3 +55,7 @@ Topic Leaders:
 ### Videos
 
 [Anders Hejlsberg - TypeScript: Static types for JavaScript](https://youtu.be/ET4kT88JRXs)
+
+### Books
+
+- [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091)

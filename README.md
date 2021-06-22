@@ -1,5 +1,18 @@
 # Front-end developer roadmap
 
+## Available Topics
+
+- [Typescript](./typescript/readme.md)
+  - 📝 [Fundamentals](./typescript/fundamentals.md)
+  - 🚧 [Intermediate](./typescript/intermediate.md)
+  - 🚧 [Advanced](./typescript/advance.md)
+
+> Legend:
+>
+> - 🚀 Ready
+> - 📝 In Review
+> - 🚧 Work in progress
+
 ## Introduction
 
 List of questions, resources, and exercises to help developer skill up in the specific topic step by step.
@@ -67,12 +80,6 @@ Anyone is welcome to contribute.
 
 - Open pull request with improvements
 - Discuss ideas in the issue
-
-## Available Topics
-
-### In Development
-
-[Typescript roadmap](./typescript/readme.md)
 
 ## Useful links
 
