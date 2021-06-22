@@ -1,12 +1,16 @@
 # 📝 TypeScript Fundamentals (In Review)
 
-- Type annotations [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-annotations) [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#explicit-types)
-- Primitive Types [link](https://basarat.gitbook.io/typescript/type-system#primitive-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
+- Type
+  annotations [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-annotations) [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#explicit-types)
+- Primitive
+  Types [link](https://basarat.gitbook.io/typescript/type-system#primitive-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#the-primitives-string-number-and-boolean)
 - Literal types [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#literal-types)
-- null and undefined [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#by-default-undefined-and-null-are-not-included-in-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined)
+- null and
+  undefined [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#by-default-undefined-and-null-are-not-included-in-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#null-and-undefined)
 - Arrays [link](https://basarat.gitbook.io/typescript/type-system#arrays) [link](https://exploringjs.com/tackling-ts/ch_typing-arrays.html#ways-of-typing-arrays)
 - Array as tuples [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#arrays-as-tuples)
-- Function types [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#function-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#functions)
+- Function
+  types [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#function-types) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#functions)
   - void [link](https://basarat.gitbook.io/typescript/type-system#any)
   - Optional parameters [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#optional-parameters)
   - Rest parameters [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#rest-parameters)
@@ -19,10 +23,9 @@
   - Methods [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#methods)
   - Optional Properties [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#optional-properties)
   - Readonly Properties [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#readonly-properties)
-- Generic Object Types [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#generic-object-types) [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-variables-and-generic-types)
-- Any [link](https://basarat.gitbook.io/typescript/type-system#any) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any) [examples](https://www.typescriptlang.org/play?q=183#example/any)
-  - noImplicitAny [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#noimplicitany)
-  - When to use any[link](https://github.com/formium/typescript#when-to-use-any)
+- Generic Object
+  Types [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#generic-object-types) [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-variables-and-generic-types)
+- Any [link](https://basarat.gitbook.io/typescript/type-system#any) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any) [examples](https://www.typescriptlang.org/play?q=183#example/any) - noImplicitAny [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#noimplicitany) - When to use any[link](https://github.com/formium/typescript#when-to-use-any)
 - Enums
   - Numeric enums [link](https://exploringjs.com/tackling-ts/ch_enums.html#numeric-enums)
   - String-based enum [link](https://exploringjs.com/tackling-ts/ch_enums.html#string-based-enums)
@@ -31,8 +34,10 @@
 - Utility Types [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
   - Partial<Type> [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype)
   - Record<Keys,Type> [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype)
-- Structural typing [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html#structural-type-system)
-- Static type-checking [link](https://en.wikipedia.org/wiki/Type_system#Static_type_checking) [link](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)
+- Structural
+  typing [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html#structural-type-system)
+- Static
+  type-checking [link](https://en.wikipedia.org/wiki/Type_system#Static_type_checking) [link](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information)
 - Type Inference [link](https://www.typescriptlang.org/docs/handbook/type-inference.html)
 - Type Assertions [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
 - Type guards
@@ -50,18 +55,18 @@ From [typescript-exercises](https://github.com/typescript-exercises/typescript-e
 - [1](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/1) Interface, Array
 - [2](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/2) Union
 - [3](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/3) Built-in type guards
-- [7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7) Generic, Function, Tuples
+- [7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7) Generic, Function,
+  Tuples
 - [9](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/9) Generic
 
 ## Tasks
 
 ### Task 1
 
-Describe type User that have following properties: id, firstName, lastName, isOnline, age, role, address.
-See example for more details
+Describe interface User that has the following properties: id, firstName, lastName, isOnline, age, role, address. See usage example below
 
-```js
-const user1 = {
+```typescript
+const user1: User = {
   id: "111",
   firstName: "Ivan",
   lastName: "Ivanov",
@@ -75,7 +80,7 @@ const user1 = {
   },
 };
 
-const user2 = {
+const user2: User = {
   id: "222",
   firstName: "Ivan",
   lastName: "Ivanov",
@@ -97,24 +102,28 @@ const user3 = {
 
 ### Task 2
 
-Type function updateUser. See example for more details.
+Type function updateUser. See js example for more details below.
 
 ```js
 function updateUser(user, newValues) {
   return { ...user, ...newValues };
 }
+
 const updatedUser = updateUser(user, { isOnline: true });
 const updatedUser2 = updateUser(user, { age: 25, lastName: "Petrov" });
 ```
 
 ### Task 3
 
-Define following types Role (use enum), Feature (use union), FeaturePermission, Permissions
-Available
-roles are guest, user and admin. Available features are catalog, basket, admin, report. Available permissions are
-NO_ACCESS, READ, READ_WRITE'
+Define the following types Role (use enum), Feature (use union), FeaturePermission, Permissions Available roles are guest,
+user, and admin. Available features are catalog, basket, admin, report. Available permissions are NO_ACCESS, READ,
+READ_WRITE'. For type FeaturePermission use utility types Record and Partial.
 
 ```typescript
+let role: Role = Role.Guest;
+
+let feature: Feature = "catalog";
+let permission: Permission = "READ";
 const permissions: FeaturePermission = {
   guest: {
     catalog: "READ",
@@ -146,6 +155,7 @@ function hasAccess(user, features) {
     ["READ", "READ_WRITE"].includes(rolePermissions[feature])
   );
 }
+
 const hasAccessToCatalog = hasAccess(user, "catalog");
 const hasAccessToCatalogAndBasket = hasAccess(user, ["basket", "catalog"]);
 ```
@@ -156,9 +166,9 @@ Type function `useState`. See source code for more details
 
 ```js
 function useState(initialValue) {
-  const currentValue = initialValue;
+  let currentValue = initialValue;
   const setValue = (value) => {
-    currentValue = initialValue;
+    currentValue = value;
   };
   const getValue = () => currentValue;
   return [getValue, setValue, initialValue];
@@ -171,5 +181,13 @@ setValue(20);
 
 ### Task 5
 
-Create interface Array<T> with following arrays method: pop, push, sort, indexOf, every, map, filter,
-reduce. Use javascript docs as references. [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+Create interface Array<T> with following arrays method: pop, push, sort, indexOf, every, map, filter, reduce. Use
+javascript docs as
+references. [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+Example for [slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice#syntax) method
+
+```typescript
+interface Array<T> {
+  slice(start?: number, end?: number): T[];
+}
+```
