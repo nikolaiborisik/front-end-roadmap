@@ -179,7 +179,7 @@ const v = getValue();
 setValue(20);
 ```
 
-### Task 5
+### Task 6
 
 Create interface Array<T> with following arrays method: pop, push, sort, indexOf, every, map, filter, reduce. Use
 javascript docs as
