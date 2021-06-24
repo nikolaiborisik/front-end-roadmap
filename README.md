@@ -12,6 +12,7 @@
     - [How can I help?](#how-can-i-help)
   - [Useful links](#useful-links)
     - [Roadmaps](#roadmaps)
+  - [Discussions](https://github.com/nikolaiborisik/front-end-roadmap/discussions)
 
 ## Available Courses
 
