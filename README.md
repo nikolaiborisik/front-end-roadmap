@@ -1,6 +1,19 @@
 # Front-end developer roadmap
 
-## Available Topics
+- [Front-end developer roadmap](#front-end-developer-roadmap)
+  - [Available Courses](#available-courses)
+  - [Introduction](#introduction)
+    - [🚀 Goals](#-goals)
+    - [Topic requirements:](#topic-requirements)
+    - [Topic leader responsibility](#topic-leader-responsibility)
+    - [Topic level(s) Mentor](#topic-levels-mentor)
+    - [Exam](#exam)
+  - [🙌 Contribution](#-contribution)
+    - [How can I help?](#how-can-i-help)
+  - [Useful links](#useful-links)
+    - [Roadmaps](#roadmaps)
+
+## Available Courses
 
 - [Typescript](./typescript/readme.md)
   - 📝 [Fundamentals](./typescript/fundamentals.md)
@@ -80,6 +93,19 @@ Anyone is welcome to contribute.
 
 - Open pull request with improvements
 - Discuss ideas in the issue
+
+### How can I help?
+
+- Fix spelling and mistakes
+- Review Merge Requests
+- Write and improve common documentation
+- Review courses
+- Improve courses documentation
+- Find better resources links
+- Add resource link on alternative language
+- Add new or improve current exercises
+- Curate new courses
+- Answer questions in the discussion
 
 ## Useful links
 
