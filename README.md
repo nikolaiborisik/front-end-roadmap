@@ -16,10 +16,13 @@
 
 ## Available Courses
 
-- [Typescript](./typescript/readme.md)
-  - 📝 [Fundamentals](./typescript/fundamentals.md)
-  - 🚧 [Intermediate](./typescript/intermediate.md)
-  - 🚧 [Advanced](./typescript/advance.md)
+### [Typescript](./typescript/readme.md)
+
+- 📝 [Fundamentals](./typescript/fundamentals.md)
+- 🚧 [Intermediate](./typescript/intermediate.md)
+- 🚧 [Advanced](./typescript/advance.md)
+
+### [React](./react/readme.md)
 
 > Legend:
 >

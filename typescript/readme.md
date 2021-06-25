@@ -1,5 +1,7 @@
 # Typescript
 
+[Discussions](https://github.com/nikolaiborisik/front-end-roadmap/discussions/categories/typescript)
+
 Topic Leaders:
 
 ## Available levels
