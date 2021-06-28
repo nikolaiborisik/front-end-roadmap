@@ -62,7 +62,15 @@ The _topic_ can be a specific framework, library, language, etc. Topics example:
 - Each topic has exercises and tasks.
 - All resources, questions, and exercises are fully available for students, mentors, and leaders. No secret file for exam questions)
 
-### Topic leader responsibility
+### Levels
+
+- _Fundamentals_ level - knowledge of this level should be enough to solve standard daily tasks.
+- _Intermediate_ level - knowledge of this level should allow effectively solving most of the tasks
+- _Advance level_ - deep dive into the technology, more theoretical
+
+> Fundamentals and Intermediate levels have the highest priority
+
+### Topic's leader responsibility
 
 - Prepare topics material
 - Review topics MR and proposals
