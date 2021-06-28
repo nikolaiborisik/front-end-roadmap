@@ -2,7 +2,7 @@
 
 [Discussions](https://github.com/nikolaiborisik/front-end-roadmap/discussions/categories/typescript)
 
-Topic Leaders:
+Topic Leaders: Nikolai Borisik
 
 ## Available levels
 
