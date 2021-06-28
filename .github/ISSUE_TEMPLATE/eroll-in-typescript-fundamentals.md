@@ -1,7 +1,7 @@
 ---
 name: Eroll in TypeScript Fundamentals
 about: Describe this issue template's purpose here.
-title: ''
+title: Eroll in TypeScript Fundamentals
 labels: enroll in, typescript
 assignees: nikolaiborisik
 
