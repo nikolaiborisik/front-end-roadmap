@@ -99,6 +99,17 @@ Exam goals:
 - find knowledge gap
 - share knowledge
 
+### How to start the course?
+
+- Sign up for the course, for that just pm to the course leader
+- Wait until any free mentor is available and contact you.
+- Have a kickoff call with a mentor
+- Create a public repository
+- Send repository's link to your mentor
+- Push you solutions to the repo when something done
+- If you have any question, ask your mentor or in the course chat
+- Each week has one call with your mentor or a few calls 10-15 min to discuss materials, your questions, and solutions
+
 ## 🙌 Contribution
 
 Anyone is welcome to contribute.
