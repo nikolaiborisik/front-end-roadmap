@@ -40,6 +40,10 @@
 - Discriminated
   unions [link](https://exploringjs.com/tackling-ts/ch_enum-alternatives.html#discriminated-union) [link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#discriminated-unions)
 
+# Optional
+
+## TypeScript and React Intermediate [link](react.md/#Intermediate)
+
 ## Exercises
 
 From [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises/):

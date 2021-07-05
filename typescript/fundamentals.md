@@ -48,6 +48,10 @@
 - The downsides of using
   TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript)
 
+# Optional
+
+## TypeScript and React Fundamentals [link](react.md#Fundamentals)
+
 ## Exercises
 
 From [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises/):

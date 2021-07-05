@@ -1,5 +1,7 @@
 # Typescript with react
 
+[DefinitelyTyped/React](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react)
+
 ## Fundamentals
 
 - Setting up CRA application with typescript [link](https://reactjs.org/docs/static-type-checking.html#typescript)
