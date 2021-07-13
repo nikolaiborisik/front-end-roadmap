@@ -1,5 +1,13 @@
 # 📝 TypeScript Fundamentals (In Review)
 
+- Programming TypeScript via an integrated development environment (
+  IDE) [link](https://exploringjs.com/tackling-ts/ch_typescript-workflows.html#programming-typescript-via-an-integrated-development-environment-ide)
+- The TypeScript
+  Playground [link](https://www.typescriptlang.org/play) [link](https://exploringjs.com/tackling-ts/ch_trying-out-typescript.html#the-typescript-playground)
+- The benefits of using
+  TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-benefits-of-using-typescript)
+- The downsides of using
+  TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript)
 - Type
   annotations [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-annotations) [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#explicit-types)
 - Primitive
@@ -16,6 +24,7 @@
   - Rest parameters [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#rest-parameters)
 - Union types [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#union-types)
 - Typing objects [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#typing-objects)
+
   - Typing objects-as-records via
     interfaces [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#typing-objects-as-records-via-interfaces)
   - Object literal
@@ -23,14 +32,18 @@
   - Methods [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#methods)
   - Optional Properties [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#optional-properties)
   - Readonly Properties [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#readonly-properties)
-- Generic Object
-  Types [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#generic-object-types) [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-variables-and-generic-types)
-- Any [link](https://basarat.gitbook.io/typescript/type-system#any) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any) [examples](https://www.typescriptlang.org/play?q=183#example/any) - noImplicitAny [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#noimplicitany) - When to use any[link](https://github.com/formium/typescript#when-to-use-any)
+
 - Enums
   - Numeric enums [link](https://exploringjs.com/tackling-ts/ch_enums.html#numeric-enums)
   - String-based enum [link](https://exploringjs.com/tackling-ts/ch_enums.html#string-based-enums)
   - Heterogeneous enums [link](https://exploringjs.com/tackling-ts/ch_enums.html#heterogeneous-enums)
   - Omitting initializers [link](https://exploringjs.com/tackling-ts/ch_enums.html#omitting-initializers)
+- Do practical exercises: Task 1-4,E1-E2
+- Generic Object
+  Types [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#generic-object-types) [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-variables-and-generic-types)
+- Any [link](https://basarat.gitbook.io/typescript/type-system#any) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any) [examples](https://www.typescriptlang.org/play?q=183#example/any)
+- noImplicitAny [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#noimplicitany) - When to use
+  any[link](https://github.com/formium/typescript#when-to-use-any)
 - Utility Types [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
   - Partial<Type> [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype)
   - Record<Keys,Type> [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype)
@@ -43,31 +56,41 @@
 - Type guards
   - Built-in type
     guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#narrowing-via-built-in-type-guards) [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#when-are-static-types-too-general)
-- The benefits of using
-  TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-benefits-of-using-typescript)
-- The downsides of using
-  TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript)
+  - User-defined type
+    guards [link](https://exploringjs.com/tackling-ts/ch_type-guards-assertion-functions.html#user-defined-type-guards)
 
-# Optional
+## Optional
 
-## TypeScript and React Fundamentals [link](react.md#Fundamentals)
+### TypeScript and React Fundamentals [link](react.md#Fundamentals)
 
 ## Exercises
 
-From [typescript-exercises](https://github.com/typescript-exercises/typescript-exercises/):
+For exercises use WebStorm or VSCode or TSPlayground. For WebStorm and VSCode create an empty project and add a .ts file, TypeScript should work out of the box.
 
-- [1](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/1) Interface, Array
-- [2](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/2) Union
-- [3](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/3) Built-in type guards
-- [7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7) Generic, Function,
+### From typescript-exercises [link](https://github.com/typescript-exercises/typescript-exercises/)
+
+Fork repo https://github.com/typescript-exercises/typescript-exercises/
+. [How to fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+
+- [E1](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/1) Interface, Array
+- [E2](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/2) Union
+- [E3](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/3) Built-in type guards
+- [E4](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/4) User-defined type guards
+- [E5](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/5) Utility types
+- [E7](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/7) Generic, Function,
   Tuples
-- [9](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/9) Generic
+- [E9](https://github.com/typescript-exercises/typescript-exercises/tree/master/src/exercises/9) Generic
 
 ## Tasks
 
+- Create repo in the GitHub.
+- Send link to your mentor
+- For each task create ts file task#.ts.
+
 ### Task 1
 
-Describe interface User that has the following properties: id, firstName, lastName, isOnline, age, role, address. See usage example below
+Describe interface User that has the following properties: id, firstName, lastName, isOnline, age, role, address. See
+usage example below
 
 ```typescript
 const user1: User = {
@@ -106,21 +129,9 @@ const user3 = {
 
 ### Task 2
 
-Type function updateUser. See js example for more details below.
-
-```js
-function updateUser(user, newValues) {
-  return { ...user, ...newValues };
-}
-
-const updatedUser = updateUser(user, { isOnline: true });
-const updatedUser2 = updateUser(user, { age: 25, lastName: "Petrov" });
-```
-
-### Task 3
-
-Define the following types `Role` (use enum), `Feature` (use union), `Permissions`, `FeaturePermission`. Available roles are guest,
-user, and admin. Available features are catalog, basket, admin, report. Available permissions are `NO_ACCESS`, `READ`, `READ_WRITE`. For type `FeaturePermission` use utility types Record and Partial.
+Define the following types `Role` (use enum), `Feature` (use union), `Permissions`, `FeaturePermission`. Available roles
+are guest, user, and admin. Available features are catalog, basket, admin, report. Available permissions are `NO_ACCESS`
+, `READ`, `READ_WRITE`. For type `FeaturePermission` use utility types Record and Partial.
 
 ```typescript
 // TODO: define Role, Feature, Permission and FeaturePermission
@@ -147,7 +158,7 @@ const permissions: FeaturePermission = {
 };
 ```
 
-### Task 4
+### Task 3
 
 Type function hasPermission. See example for more details
 
@@ -163,6 +174,19 @@ function hasAccess(user, features) {
 
 const hasAccessToCatalog = hasAccess(user, "catalog");
 const hasAccessToCatalogAndBasket = hasAccess(user, ["basket", "catalog"]);
+```
+
+### Task 4
+
+Type function updateUser. See js example for more details below.
+
+```js
+function updateUser(user, newValues) {
+  return { ...user, ...newValues };
+}
+
+const updatedUser = updateUser(user, { isOnline: true });
+const updatedUser2 = updateUser(user, { age: 25, lastName: "Petrov" });
 ```
 
 ### Task 5
@@ -189,7 +213,8 @@ setValue(20);
 Create interface Array<T> with following arrays method: pop, push, sort, indexOf, every, map, filter, reduce. Use
 javascript docs as
 references. [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-Example for [slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice#syntax) method
+Example for [slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice#syntax)
+method
 
 ```typescript
 interface Array<T> {

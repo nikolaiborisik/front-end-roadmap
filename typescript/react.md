@@ -8,7 +8,7 @@
 
 - Importing react [link](https://github.com/typescript-cheatsheets/react#import-react)
 
-- Class components [link](https://github.com/typescript-cheatsheets/react#class-components)
+- Class components (Optional) [link](https://github.com/typescript-cheatsheets/react#class-components)
 
 - Functional components [link](https://github.com/typescript-cheatsheets/react#function-components)
 
