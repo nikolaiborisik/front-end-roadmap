@@ -1,13 +1,13 @@
 # 📝 TypeScript Fundamentals (In Review)
 
-- Programming TypeScript via an integrated development environment (
-  IDE) [link](https://exploringjs.com/tackling-ts/ch_typescript-workflows.html#programming-typescript-via-an-integrated-development-environment-ide)
-- The TypeScript
-  Playground [link](https://www.typescriptlang.org/play) [link](https://exploringjs.com/tackling-ts/ch_trying-out-typescript.html#the-typescript-playground)
-- The benefits of using
-  TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-benefits-of-using-typescript)
-- The downsides of using
-  TypeScript [link](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript)
+## Introduction and quick start
+
+[TypeScript](https://www.typescriptlang.org/) is a superset of JavaScript language which benefits from type system to enable compile time type analysis. A valid JS code is a valid TS code too, but to run TS in a browser or any other environment, you need to transform TS into plain JS code. The easiest way to try TypeScript is to use [The Playground](https://www.typescriptlang.org/play). This would be sufficient enough to solve all the tasks on this step, but it is not something that will be useful in a real world. The next step would be to [add TypeScript to your workstation](https://www.typescriptlang.org/download) and add support for your favourite IDE (details [here](https://exploringjs.com/tackling-ts/ch_typescript-workflows.html#programming-typescript-via-an-integrated-development-environment-ide)). Keep in mind, that every feature comes with the price, so make sure to get familiar with [benefits](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-benefits-of-using-typescript) TypeScript grants developer as well as [downsides](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript) such solution brings upon them.
+
+This step is only an introduction to the world of TypeScript. See [the official documentation](https://www.typescriptlang.org/docs/) for extra and missing information.
+
+## Topics to cover
+
 - Type
   annotations [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-annotations) [link](https://www.typescriptlang.org/docs/handbook/2/basic-types.html#explicit-types)
 - Primitive
