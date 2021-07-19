@@ -1,4 +1,4 @@
-# 📝 TypeScript Fundamentals (In Review)
+# 📝 TypeScript Fundamentals
 
 ## Introduction and quick start
 
