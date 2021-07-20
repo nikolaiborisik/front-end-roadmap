@@ -130,7 +130,7 @@ const user3 = {
 ### Task 2
 
 Define the following types `Role` (use enum), `Feature` (use union), `Permissions`, `FeaturePermission`. Available roles
-are guest, user, and admin. Available features are catalog, basket, admin, report. Available permissions are `NO_ACCESS`
+are guest, user, and admin. Available features are catalog, basket, news, report. Available permissions are `NO_ACCESS`
 , `READ`, `READ_WRITE`. For type `FeaturePermission` use utility types Record and Partial.
 
 ```typescript
