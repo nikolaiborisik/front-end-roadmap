@@ -56,8 +56,9 @@ This step is only an introduction to the world of TypeScript. See [the official 
 - Generic Object
   Types [link](https://www.typescriptlang.org/docs/handbook/2/objects.html#generic-object-types) [link](https://exploringjs.com/tackling-ts/ch_typescript-essentials.html#type-variables-and-generic-types)
 - Any [link](https://basarat.gitbook.io/typescript/type-system#any) [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any) [examples](https://www.typescriptlang.org/play?q=183#example/any)
-- noImplicitAny [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#noimplicitany) - When to use
-  any[link](https://github.com/formium/typescript#when-to-use-any)
+  - noImplicitAny [link](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#noimplicitany)
+  - When to use
+    any[link](https://github.com/formium/typescript#when-to-use-any)
 - Utility Types [link](https://www.typescriptlang.org/docs/handbook/utility-types.html)
   - Partial<Type> [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#partialtype)
   - Record<Keys,Type> [link](https://www.typescriptlang.org/docs/handbook/utility-types.html#recordkeystype)
