@@ -1,5 +1,19 @@
 # 📝 TypeScript Fundamentals
 
+## Table of Contents
+
+- [Introduction and quick start](#Introduction-and-quick-start)
+- [Topics to cover](#Topics-to-cover)
+- [Optional](#Optional)
+- [Exercises](#Exercises)
+- [Tasks](#Tasks)
+  - [Task 1](#Task-1)
+  - [Task 2](#Task-2)
+  - [Task 3](#Task-3)
+  - [Task 4](#Task-4)
+  - [Task 5](#Task-5)
+  - [Task 6](#Task-6)
+
 ## Introduction and quick start
 
 [TypeScript](https://www.typescriptlang.org/) is a superset of JavaScript language which benefits from type system to enable compile time type analysis. A valid JS code is a valid TS code too, but to run TS in a browser or any other environment, you need to transform TS into plain JS code. The easiest way to try TypeScript is to use [The Playground](https://www.typescriptlang.org/play). This would be sufficient enough to solve all the tasks on this step, but it is not something that will be useful in a real world. The next step would be to [add TypeScript to your workstation](https://www.typescriptlang.org/download) and add support for your favourite IDE (details [here](https://exploringjs.com/tackling-ts/ch_typescript-workflows.html#programming-typescript-via-an-integrated-development-environment-ide)). Keep in mind, that every feature comes with the price, so make sure to get familiar with [benefits](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-benefits-of-using-typescript) TypeScript grants developer as well as [downsides](https://exploringjs.com/tackling-ts/ch_why-typescript.html#the-downsides-of-using-typescript) such solution brings upon them.
