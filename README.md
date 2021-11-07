@@ -100,3 +100,7 @@ Anyone is welcome to contribute.
 > Visual roadmap with tiny descriptions and links. Most links to the paid content
 
 [Front-End Developer Roadmap In 2021](https://github.com/Z8264/frontend-developer-roadmap)
+
+### Others
+
+[Useful links for interns](./links/for-interns.md)
